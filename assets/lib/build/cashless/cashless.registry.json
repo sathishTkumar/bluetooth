@@ -1,0 +1,31 @@
+{
+  "namespace": "cashless",
+  "fsNamespace": "cashless",
+  "loader": "../cashless.js",
+  "global": "cashless.global.js",
+  "core": "cashless.core.js",
+  "corePolyfilled": "es5-build-disabled.js",
+  "components": {
+    "add-cash": {
+      "$": "add-cash"
+    },
+    "cash-balance-transfer": {
+      "$": "cash-balance-transfer"
+    },
+    "cash-less": {
+      "$": "cash-balance-transfer"
+    },
+    "cash-less-home": {
+      "$": "cash-balance-transfer"
+    },
+    "club-status": {
+      "$": "cash-balance-transfer"
+    },
+    "component-header": {
+      "$": "cash-balance-transfer"
+    },
+    "player-balance": {
+      "$": "cash-balance-transfer"
+    }
+  }
+}

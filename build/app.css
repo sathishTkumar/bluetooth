@@ -1,0 +1,16 @@
+:root {
+  --app-primary-color: red;
+}
+
+h1 {
+  color: var(--app-primary-color)
+}
+
+.dashboard-header {
+  background-color: #5724b8
+}
+
+.dashboard-title-image {
+  height: 30px !important;
+  padding-top:5px;
+}

@@ -1,0 +1,203 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.core.js",
+  "corePolyfilled": "es5-build-disabled.js",
+  "components": {
+    "add-cash": {
+      "ios": "add-cash.ios",
+      "md": "add-cash.md"
+    },
+    "app-home": {
+      "$": "app-home"
+    },
+    "app-profile": {
+      "$": "app-profile"
+    },
+    "balance-info": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    },
+    "balance-transfer": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "dash-board": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    },
+    "ion-action-sheet": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    },
+    "ion-alert": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "ion-alert-controller": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "ion-animation-controller": {
+      "$": "ion-animation-controller"
+    },
+    "ion-app": {
+      "ios": "ion-app.ios",
+      "md": "ion-app.md"
+    },
+    "ion-backdrop": {
+      "$": "ion-animation-controller"
+    },
+    "ion-button": {
+      "ios": "ion-button.ios",
+      "md": "ion-button.md"
+    },
+    "ion-buttons": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-card": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "ion-card-content": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "ion-card-header": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    },
+    "ion-col": {
+      "$": "ion-col"
+    },
+    "ion-content": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-grid": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "ion-header": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-icon": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-item": {
+      "ios": "ion-item.ios",
+      "md": "ion-item.md"
+    },
+    "ion-label": {
+      "ios": "add-cash.ios",
+      "md": "add-cash.md"
+    },
+    "ion-list": {
+      "ios": "ion-item.ios",
+      "md": "ion-item.md"
+    },
+    "ion-list-header": {
+      "ios": "add-cash.ios",
+      "md": "add-cash.md"
+    },
+    "ion-navbar": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-page": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-radio": {
+      "ios": "add-cash.ios",
+      "md": "add-cash.md"
+    },
+    "ion-router-controller": {
+      "ios": "ion-app.ios",
+      "md": "ion-app.md"
+    },
+    "ion-row": {
+      "$": "ion-col"
+    },
+    "ion-scroll": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-segment": {
+      "ios": "ion-segment.ios",
+      "md": "ion-segment.md"
+    },
+    "ion-segment-button": {
+      "ios": "ion-segment.ios",
+      "md": "ion-segment.md"
+    },
+    "ion-slide": {
+      "$": "ion-slide"
+    },
+    "ion-slides": {
+      "$": "ion-slide"
+    },
+    "ion-thumbnail": {
+      "ios": "ion-segment.ios",
+      "md": "ion-segment.md"
+    },
+    "ion-title": {
+      "ios": "ion-buttons.ios",
+      "md": "ion-buttons.md"
+    },
+    "ion-toast": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "ion-toast-controller": {
+      "ios": "balance-transfer.ios",
+      "md": "balance-transfer.md"
+    },
+    "my-app": {
+      "ios": "ion-app.ios",
+      "md": "ion-app.md"
+    },
+    "player-card": {
+      "$": "player-card"
+    },
+    "sg-events": {
+      "ios": "ion-segment.ios",
+      "md": "ion-segment.md"
+    },
+    "sg-events-mini": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    },
+    "sg-qr-code": {
+      "$": "sg-qr-code"
+    },
+    "slider-calendar": {
+      "ios": "ion-segment.ios",
+      "md": "ion-segment.md"
+    },
+    "stencil-route": {
+      "ios": "ion-app.ios",
+      "md": "ion-app.md"
+    },
+    "stencil-route-link": {
+      "$": "stencil-route-link"
+    },
+    "stencil-router": {
+      "ios": "ion-app.ios",
+      "md": "ion-app.md"
+    },
+    "wallet-balance": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    },
+    "wallet-mini": {
+      "ios": "balance-info.ios",
+      "md": "balance-info.md"
+    }
+  }
+}
